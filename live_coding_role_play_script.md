@@ -1,5 +1,5 @@
+---
 # Role Play Script: Live Coding Interview - Senior Java Engineer
-
 ---
 
 **Scene:** A virtual meeting room or office setting. The **Technical Interviewer** represents the hiring company, while the **Java Engineer Candidate** is interviewing for a senior role.
@@ -46,7 +46,7 @@ Absolutely. Let’s dive in.
 ---
 # 2. Debugging Coding Challenge (30-40 Minutes)
 
-### Step 1: Candidate Starts Debugging
+### Candidate Starts Debugging
 
 **Interviewer:**  
 Alright, for the first challenge, I’ll share a piece of Java code with you. This code is meant to parse and calculate values from a CSV file, but it’s not working as expected. Your goal is to debug and fix the issue. Here’s the problem statement and the buggy code. [Shares code via a collaborative editor.]
