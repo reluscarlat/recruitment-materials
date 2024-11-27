@@ -1,4 +1,6 @@
+---
 # Take Home Assignment Template
+---
 ## Before creating your own Take Home Assignment 
 
 *Use this template as a source of inspiration, not a rigid standard.*   
